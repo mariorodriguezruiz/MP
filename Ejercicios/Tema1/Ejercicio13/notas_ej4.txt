@@ -1,0 +1,26 @@
+
+
+para cada elemento del array (i)
+	(desde 1)
+		si elemento en pos i es mayor que elemento en pos anterior
+			-incrementar longitud secuencia actual
+			-si long de la secuencia actual es mayor que la de la sex.max.previa 
+				actualizar:
+					- pos secuencia max
+					- util de secuencia
+		en caso contrario
+			- long sec.actual es 1
+			- pos.secuencia actual es i
+			
+			
+mirar el ejercicio 13!!!!!!!!!
+a0 = 1 	b0=1
+an = bn-1
+
+bn = an-1 + 2*bn-1
+
+
+n	an 	bn 		double!
+0 	1 	1
+1 	1	3
+2 	3	7

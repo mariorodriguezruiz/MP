@@ -1,0 +1,14 @@
+ /*
+ Ricardo
+ Mario Rodríguez Ruiz 74737195-Y (Grupo 17)
+
+ */
+
+    - En el primer ejercicio no hemos tenido problemas importantes.
+    Ejercicio resuelto en poco tiempo.
+
+    - En el ejercicio dos es en el que más tiempo hemos invertido.
+    No conocíamos el funcionamiento de cómo leer y escribir imágenes en
+    formato texto ya que no se especificaba en ningún sitio. Una vez que conseguimos entenderlo, aplicarlo al código no fue un inconveniente.
+
+    - El ejercicio tres lo hicimos incluso antes que el dos ya que lo vimos necesario.

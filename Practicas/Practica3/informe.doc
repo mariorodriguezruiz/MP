@@ -1,0 +1,9 @@
+
+comprension sobre cómo se estructuraba el pixel,
+dando cuenta que da igual hacer el for con filas y columnas que
+hacer directamente filas*columnas datos[i]
+
+se me olvido que tenia que añadir una nueva columna para agregar el '\n' en el fichero de texto
+
+
+en el ultimo programa no me coge el ultimo espacio en el conjunto de entrada

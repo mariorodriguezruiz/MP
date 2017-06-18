@@ -1,0 +1,16 @@
+1 Práctica 5
+2 
+3 1) ESTATICA IMG -> DINAMICA
+4     CONSTRUCTOR
+5         CREAR
+6         LEEIMAGEN
+7         RETURN) DESTRUIR CLASE
+8 ANTES DE CREAR Y DESTRUIR HAY QUE COMPROBAR ESE ESPACIO
+9 
+10 
+11 EN EL MAKEFILE
+12     FLAGS = -Wall -Werror -pedantic
+13 
+14 
+15 
+16 crear celda auxiliar para apuntar a una siguiente
